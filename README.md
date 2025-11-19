@@ -1,6 +1,6 @@
 # Vendease
 
-[![CI Status](https://github.com/Johnkayode/vendease/actions/workflows/test.yml/badge.svg)](https://github.com/Johnkayode/vendease/actions)
+<!-- [![CI Status](https://github.com/Johnkayode/vendease/actions/workflows/test.yml/badge.svg)](https://github.com/Johnkayode/vendease/actions) -->
 [![Python 3.11+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 > [!NOTE]
