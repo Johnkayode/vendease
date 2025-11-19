@@ -14,7 +14,7 @@
 1. Ensure Docker is installed on your machine.
 2. Clone the repository:
     ```bash
-    git clone https://github.com/johnkayode/formplus.git
+    git clone https://github.com/johnkayode/vendease.git
     ```
 3. Configure environment:
    ```bash
