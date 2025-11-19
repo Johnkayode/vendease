@@ -1,6 +1,6 @@
-FROM python:3.10-slim-bullseye
+FROM arm64v8/python:3.11-bullseye
 
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get install -y  --fix-missing \
     build-essential \
     libpq-dev \
     libffi-dev \

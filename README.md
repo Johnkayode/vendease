@@ -27,7 +27,7 @@
 5. The API will be running on `http://localhost:8000` 
 
 ## API Documentation
-Postman: [here](http://localhost:8000/api/)
+Swagger: [http://localhost:8000/swagger/](http://localhost:8000/swagger/)
 
 ## Testing
 Test environment is set up with Github Actions.
